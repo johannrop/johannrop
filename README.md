@@ -21,16 +21,17 @@
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/johannrop)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/johannrop)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/johannrop)
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)](https://github.com/johannrop)
 
 
 ### Technologies & Frameworks
 [![Spring](https://img.shields.io/badge/spring-black?style=for-the-badge&logo=spring)](https://github.com/johannrop)
 [![Angular](https://img.shields.io/badge/angular-black?style=for-the-badge&logo=angular)](https://github.com/johannrop)
-[![NodeJS](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)](https://github.com/johannrop)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/johannrop)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/johannrop)
 [![Capacitor](https://img.shields.io/badge/capacitor-black?style=for-the-badge&logo=Capacitor)](https://hub.docker.com/u/johannrop)
 [![Amazon](https://img.shields.io/badge/amazon%20ec2-black?style=for-the-badge&logo=amazonaws)](https://hub.docker.com/u/johannrop)
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino)](https://hub.docker.com/u/johannrop)
 
 
 ### OS
