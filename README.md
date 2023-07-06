@@ -26,7 +26,7 @@
 ### Technologies & Frameworks
 [![Spring](https://img.shields.io/badge/spring-black?style=for-the-badge&logo=spring)](https://github.com/johannrop)
 [![Angular](https://img.shields.io/badge/angular-black?style=for-the-badge&logo=angular)](https://github.com/johannrop)
-[![Docker](https://img.shields.io/badge/docker%20ec2-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/johannrop)
+[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/johannrop)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/johannrop)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/johannrop)
 [![Capacitor](https://img.shields.io/badge/capacitor-black?style=for-the-badge&logo=Capacitor)](https://github.com/johannrop)
