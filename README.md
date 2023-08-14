@@ -28,7 +28,7 @@
 [![Angular](https://img.shields.io/badge/angular-black?style=for-the-badge&logo=angular)](https://github.com/johannrop)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/johannrop)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/johannrop)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/johannrop)
+[![SASS](https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass)](https://sass-lang.com)
 [![Capacitor](https://img.shields.io/badge/capacitor-black?style=for-the-badge&logo=Capacitor)](https://github.com/johannrop)
 [![Amazon](https://img.shields.io/badge/amazon%20ec2-black?style=for-the-badge&logo=amazonaws)](https://github.com/johannrop)
 [![Arduino](https://img.shields.io/badge/Arduino-black?style=for-the-badge&logo=Arduino)](https://github.com/johannrop)
