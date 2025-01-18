@@ -14,6 +14,16 @@
   
 </p>
 
+<p align="center">
+  <a href="https://github.com/johannrop">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=johannrop&theme=transparent" />
+  </a>
+  <a href="https://github.com/johannrop">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=johannrop&theme=transparent" />
+  </a>
+</p>
+
+
 ### Languages
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/johannrop)
 [![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/johannrop)
@@ -55,14 +65,6 @@
 </p>
 
 
-<p align="center">
-  <a href="https://github.com/johannrop">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=johannrop&theme=transparent" />
-  </a>
-  <a href="https://github.com/johannrop">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=johannrop&theme=transparent" />
-  </a>
-</p>
 
 
 
