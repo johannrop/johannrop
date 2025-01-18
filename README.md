@@ -55,6 +55,16 @@
 </p>
 
 
+<p align="center">
+  <a href="https://github.com/johannrop">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=johannrop&theme=transparent" />
+  </a>
+  <a href="https://github.com/johannrop">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=johannrop&theme=transparent" />
+  </a>
+</p>
+
+
 
 
 
